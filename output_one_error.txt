@@ -1,0 +1,14 @@
+📌 SUMMARY REPORT: 1 Text Discrepancies Found
+==================================================
+
+1) SIMILARITY:   99.56%  IN  Block 5, about the company:
+
+🟩 EXPECTED:      At FreshLather, we believe soap should do more than just clean—it should care for your skin. That’s why we create high-quality, handcrafted soaps with ingredients you can trust. Born from a passion for self-care and sustainability, our small-batch soaps are made with love to keep you feeling fresh, confident, and ready to take on the world.
+
+🟥 FOUND:         At FreshLather, we believe soap should do more than just clean—it should care for your skin. That’s why we create high-quantity, handcrafted soaps with ingredients you can trust. Born from a passion for self-care and sustainability, our small-batch soaps are made with love to keep you feeling fresh, confident, and ready to take on the world.
+
+🟦 DIFFERENCE:   Expected: "e high-quality, handc" Found: "e high-quantity, hand"
+
+==================================================
+
+✅ All text blocks from the copywriting team were identified at least once in the HTML email!

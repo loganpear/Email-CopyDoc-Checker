@@ -1,0 +1,17 @@
+\Block 1, motto:
+"Smell good, feel good... avoid being the 'smelly friend.'"
+
+\Block 2, question:
+Still using soap that leaves your skin drier than your ex's text replies?
+
+\Block 3, product explanation 1:
+Most soaps strip away moisture, leaving you feeling tight and itchy. Our soap is different—crafted with nourishing ingredients like shea butter and coconut oil to cleanse without drying, keeping your skin soft and happy.
+
+\Block 4, product explanation 2:
+Infused with natural essential oils, our soap doesn’t just clean—it elevates your shower game. Whether you want to smell fresh, feel refreshed, or just avoid scratchy skin, we’ve got you covered.
+
+\Block 4, call to action 40% discount:
+Upgrade your soap and upgrade your life. Get 40% off your first order today—because great skin shouldn’t cost a fortune.
+
+\Block 5, about the company:
+At FreshLather, we believe soap should do more than just clean—it should care for your skin. That’s why we create high-quality, handcrafted soaps with ingredients you can trust. Born from a passion for self-care and sustainability, our small-batch soaps are made with love to keep you feeling fresh, confident, and ready to take on the world.

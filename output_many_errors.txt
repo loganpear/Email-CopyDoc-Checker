@@ -1,0 +1,36 @@
+📌 SUMMARY REPORT: 3 Text Discrepancies Found
+==================================================
+
+1) SIMILARITY:   97.44%  IN  Block 1, motto:
+
+🟩 EXPECTED:      "Smell good, feel good... avoid being the 'smelly friend.'"
+
+🟥 FOUND:         "Smell good, feel good... avoid being the 'smellly fred.'"
+
+🟦 DIFFERENCE:   Expected: "the 'smelly friend.'" Found: "the 'smellly fred.'""
+
+--------------------------------------------------
+
+2) SIMILARITY:   82.76%  IN  Block 1, motto:
+
+🟩 EXPECTED:      "Smell good, feel good... avoid being the 'smelly friend.'"
+
+🟥 FOUND:         "Smell good, feel good... avoid being the 'goal keeper.'"
+
+🟦 DIFFERENCE:   Expected: "eing the 'smelly frien" Found: "eing the 'goal keeper."
+
+--------------------------------------------------
+
+3) SIMILARITY:   99.74%  IN  Block 4, product explanation 2:
+
+🟩 EXPECTED:      Infused with natural essential oils, our soap doesn’t just clean—it elevates your shower game. Whether you want to smell fresh, feel refreshed, or just avoid scratchy skin, we’ve got you covered.
+
+🟥 FOUND:         Infused with natural essential oils, our soap doesn’t just clean—it elevates your shower game. Whether you want to smell fresh, feel refreshed, or just avoid scratchy skin, weve got you covered.
+
+🟦 DIFFERENCE:   Expected: "y skin, we’ve got you" Found: "y skin, weve got you "
+
+==================================================
+
+🟨 WARNING: The following text blocks from the copywriting team were not found in the HTML email:
+
+   1) Block 4, call to action 40% discount: "Upgrade your soap and upgrade your life. Get 40% off your first order today—because great skin shouldn’t cost a fortune."
