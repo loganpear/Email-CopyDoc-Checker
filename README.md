@@ -11,7 +11,17 @@ The **Email Copy Validator** extracts text from an HTML email and compares it to
 - **Partial Matches (with similarity scores)** 🔍
 - **Missing or Incorrect Text Blocks** ⚠️
 
-**Note:** This project was built using **simplified data files** and is not suited for real-world business use. Its accuracy is limited because it expects a **specific copydoc format** and may **miss errors** or even break with **more complex email HTML**. With further testing and real-world context, it could be improved for greater reliability. 
+**Note:** This project was built using **simplified data files** and is not suited for real-world business use. Its accuracy is limited because it expects a **specific copydoc format** and may **miss errors** or even break with **more diverse email HTML**. With further testing and real-world context, it could be improved for greater reliability. 
+
+---
+
+## **Tools Used**  
+- **Python** – Core programming language for text extraction and comparison.  
+- **BeautifulSoup** – Parses and extracts text from HTML emails.  
+- **difflib** – Calculates similarity between text blocks.  
+- **GitHub Copilot** – Assisted in generating code and debugging.  
+- **ChatGPT** – Helped create the HTML email template, copydoc example, README file
+- **VS Code** – Primary code editor for development and debugging.
 
 ---
 
